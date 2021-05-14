@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "Proyecto fin de año 2020-2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bethbane/Proyecto-Final.git"
+  },
+  "author": "Beth Núñez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bethbane/Proyecto-Final/issues"
+  },
+  "homepage": "https://github.com/Bethbane/Proyecto-Final#readme"
+}
