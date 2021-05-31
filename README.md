@@ -24,11 +24,14 @@ Footer: Redes Sociales
 
 | Endpoint | HTTP | Description|
 | --- | --- | --- |
-| `/` | GET | Pagina de Inicio |
-| `/Photo` | GET | Pagina de Galeria |
+| `/Home` | GET | Pagina de Inicio |
+| `/Photos` | GET | Pagina de Galeria |
 | `/About` | GET | Pagina de Nosotros|
 | `/Order` | GET | Pagina de Ordenar |
 | `404`    | GET | Pagina de 404 |
+|`/chefs`  |GET  |  Pagina de Cocineros|
+|`/footer`  |GET  |  Pagina de Cocineros|
+|`/menu`  |GET  |  Pagina de Cocineros|
 
 ## Licence
 MIT (c) Beth Alondra Núñez Espinosa
