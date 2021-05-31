@@ -16,7 +16,7 @@ Galeria
 Ordena: Este es tio formulario
 
 Headder:contiene el logo y los botones del menu
-Footer: Redes Sociales
+Footer: Redes Sociales, logo/boton
 
 ### Pagina dinamica con NodeJS, Express, Handlebars
 
@@ -24,14 +24,15 @@ Footer: Redes Sociales
 
 | Endpoint | HTTP | Description|
 | --- | --- | --- |
-| `/Home` | GET | Pagina de Inicio |
+| `/` | GET | Pagina de Inicio |
 | `/Photos` | GET | Pagina de Galeria |
-| `/About` | GET | Pagina de Nosotros|
-| `/Order` | GET | Pagina de Ordenar |
-| `404`    | GET | Pagina de 404 |
-|`/chefs`  |GET  |  Pagina de Cocineros|
-|`/footer`  |GET  |  Pagina de Cocineros|
-|`/menu`  |GET  |  Pagina de Cocineros|
+| `/About`  | GET | Pagina de Nosotros|
+| `/Order`  | GET | Pagina de Ordenar/Contacto |
+| `404`     | GET | Pagina de 404 |
+| `/chefs`   |GET  |  Pagina de Cocineros|
+| `/footer`  |GET  | Pie de Pagina |
+| `/menu`    |GET  |  Headder|
+
 
 ## Licence
 MIT (c) Beth Alondra Núñez Espinosa
